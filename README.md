@@ -35,6 +35,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/dannybartolini/BeRealEdited/blob/main/Kapture%202023-04-13%20at%2011.27.15.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+https://github.com/dannybartolini/BeRealEdited/blob/main/Kapture%202023-04-13%20at%2011.27.15.gif
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
