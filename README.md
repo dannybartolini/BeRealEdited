@@ -8,7 +8,7 @@ cloning beReal application
 
 The following **required** functionality is completed:
 
-- [x User can register a new account
+- [x] User can register a new account
 - [x] User can log in with newly created account
 - [x] App has a feed of posts when user logs in
 - [x] User can upload a new post which takes in a picture from photo library and a caption	
@@ -23,11 +23,6 @@ Video Walkthrough
 https://github.com/dannybartolini/BeRealEdited/blob/main/Kapture%202023-04-13%20at%2011.27.15.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 
 
